@@ -1,6 +1,9 @@
 body {
     background-color: #232323;
 }
+h1 {
+    color: white;
+}
 
 /**** GRID of COLORS ****/
 #container {
@@ -13,4 +16,8 @@ body {
     padding-bottom: 30%;
     float: left;
     margin: 1.66%;
+}
+
+span {
+    color: white;
 }
